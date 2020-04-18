@@ -1,0 +1,105 @@
+body {
+	font-size: 75%;
+  background: #ffffff;
+  color: #6b6c6f;
+  text-align: center;
+  margin: 20px 0;
+  font-family: Verdana, sans-serif;
+}
+
+.container {
+	width: 750px;
+	margin: 0 auto;
+}
+
+#header {
+	margin: 200px 0 100px 0;
+	text-align: center;
+}
+
+#demo #header {
+	margin: 20px 0;
+}
+
+#header h2 {
+	font-weight: normal;
+}
+
+h1#logo {
+  width: 489px;
+  height: 83px;
+  margin: 20px auto;
+  text-indent: -9999px;
+  background: transparent url("/images/webadvocate-logo.png") no-repeat left top;
+  overflow: hidden;
+  font-size: 48px;
+}
+
+#email {
+	margin: 0;
+}
+#email a {
+	margin: 15px 0;
+  color: #6b6c6f;
+  text-decoration: none;
+}
+
+
+h2 {
+	font-size: 2.5em;
+	margin: 0;
+	font-family: "Lucida Grande", Verdana, sans-serif;
+}
+
+p {
+	font-size: 1.167em;
+  text-align: center;
+}
+
+a {
+  color: #2e3e5d;
+  text-decoration: none;
+}
+
+p.large {
+  font-size: 2.5em;
+	font-family: "Lucida Grande", Verdana, sans-serif
+}
+
+.entry { margin: 2.5em 0;}
+
+.entry h3 {
+	color: #2e3e5d;
+	margin: 0;
+	font-size: 1.5em;
+}
+.entry h3 a {
+	color: #2e3e5d;
+	text-decoration: none;
+}
+
+.entry h4 {
+	color: #6b6c6f;
+	margin: 0;
+	font-size: 1.25em;
+}
+
+.entry h4 a {
+	color: #6294f0;
+	text-decoration: underline;
+}
+
+a.view-site {
+	text-decoration: underline;
+	font-size: 0.833em;
+}
+
+#demo .entry a:link,
+#demo .entry a:visited,
+#demo .entry a:active {
+	text-decoration: underline;
+}
+
+#demo p, #demo h2, #demo li {
+	text-align: left;
+}
